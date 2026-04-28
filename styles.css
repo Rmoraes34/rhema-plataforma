@@ -1,0 +1,21 @@
+/* ── RESET & BASE ── */
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --bg:#12071d;
+  --surface:#1a0d2e;
+  --card:#2c0044;
+  --primary:#59008f;
+  --accent:#9b4dff;
+  --lite:#c084ff;
+  --border:#59008f22;
+  --border2:#59008f44;
+  --text:#ffffff;
+  --text2:#ffffffcc;
+  --text3:#ffffff88;
+  --text4:#ffffff44;
+  --text5:#ffffff22;
+  --green:#7cdd8a;
+  --yellow:#ef9f27;
+  --red:#e24b4a;
+  --blue:#4285f4;
+}
